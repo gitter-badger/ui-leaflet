@@ -1,5 +1,7 @@
 # Angular Leaflet
 
+[![Join the chat at https://gitter.im/angular-ui/ui-leaflet](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/angular-ui/ui-leaflet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![](https://cdn.rawgit.com/angular-ui/ui-leaflet/master/logo.svg)
 
 ##Why the [fork](https://github.com/tombatossals/angular-leaflet-directive)?
